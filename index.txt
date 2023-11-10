@@ -1,0 +1,9 @@
+QUESTION 1.
+SOLUTION;
+-STEP1: create a container to hold the first set of elements.
+-STEP2: create a variable to hold the second set of elements.
+-STEP3: Transverse through the first set, check elements inside the first set but not in the second set.
+-STEP4: Transverse through the second set. check elements inside the second set but not in the first set.
+-STEP5: create a variable called "sum", "total", "result".
+-STEP6: Add all the distinct elements and store in result variant.
+-STEP7: Print result.
